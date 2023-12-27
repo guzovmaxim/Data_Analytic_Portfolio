@@ -16,8 +16,8 @@
 ## Содержание
 - [Обо мне](#обо-мне)
 - [Портфолио проектов](#портфолио-проектов)
-          + [E-commerce](#E-commerce)
-          + [Sport](#Sport)
+    + [E-commerce](#E-commerce)
+    + [Sport](#Sport)
 
 ### E-commerce
 <p>
