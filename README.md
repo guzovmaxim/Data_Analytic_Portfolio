@@ -1,3 +1,3 @@
 # Data_Analytic_portfolio
-In this repository I`ll collect my own projects in data analitics. 
+In this repository I`ll collect my own projects in data analitics. /n
 В этой репозитории я буду собирать свои проекты в сфере аналитики данных, для дальнейшего представления их на собеседованиях.
