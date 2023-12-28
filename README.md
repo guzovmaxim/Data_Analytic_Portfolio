@@ -17,7 +17,15 @@
 - [Обо мне](#обо-мне)
 - [Тематические проекты](#тематические-проекты)
     + [E-commerce](#E-commerce)
-    + [Sport](#Sport)
+    + [Финансы](#Финансы)
+    + [Продуктовая аналитика](#Продуктовая-аналитика)
+    + [Спортивная аналитика](#Спортивная-аналитика)
+- [Учебные проекты](#учебные-проекты)
+    + [SQL](#SQL)
+    + [python](#python)
+    + [Визуализация](#Визуализация)
+    + [Автоматизация и деплой](#Автоматизация-и-деплой)
+  
  
 ## Тематические проекты
 <p>
@@ -35,11 +43,48 @@
 
 ### E-commerce
 <p>
- dasfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdasfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdasfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdasfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdasfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdasfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdasfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdasfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdasfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdasfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdasfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdasfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdasfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdasfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdasfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdasfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdasfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdasfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ 
 </p>
 
-### Sport
+### Финансы
+<p>
+
+</p>
+
+### Продуктовая аналитика
+<p>
+
+</p>
+
+### Спортивная аналитика
 
 <p>
- dasfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdasfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdasfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdasfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdasfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdasfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdasfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdasfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdasfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdasfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdasfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdasfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdasfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdasfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdasfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdasfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdasfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdasfasdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ 
 </p>
+
+## Учебные проекты
+<p>
+    
+</p>
+
+### SQL
+<p>
+
+</p>
+
+### Python
+<p>
+
+</p>
+
+### Визуализация
+<p>
+
+</p>
+
+### Автоматизация и деплой
+<p>
+
+</p>
+
+
